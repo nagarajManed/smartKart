@@ -1,0 +1,84 @@
+User Details
+==============
+1) First Name
+2) Last Name
+3) Email Id
+4) Phone Number
+5) Alternative Phone Number
+6) Date Of Birth
+9) Profile Id
+10) Password
+11) ID
+************************************************************
+Address Details
+===============
+1) ID
+2) Profile ID
+3) User ID
+4) House No
+5) Street
+6) City
+7) State
+8) Country
+9) PinCode
+10) Comments
+11) Created Date
+12) Created By
+13) Last Modified Date
+14) Last Modified By
+************************************************************
+Profile Details
+===============
+1) ID
+2) User Id
+3) Profile Image
+4) Address Proof Image
+5) PAN Card Image
+6) Adhaar Card Image
+7) Voter ID Image
+*************************************************************
+Loan Details
+=================
+1) ID
+2) Profile ID
+3) User ID
+4) Loan Start Date
+5) Loan End Date
+6) Loan Amount
+7) Loan Tenure
+8) Rate Of Interest ID
+9) Loan Status
+10) Referred By ID
+11) Loan Rating
+12) Comments
+13) Created Date
+14) Created By
+15) Last Modified Date
+16) Last Modified By
+**************************************************************
+Rate Of Interest Details
+========================
+1) ID
+2) Profile ID
+3) Comments
+4) Rate
+5) Created Date
+6) Created By
+7) Last Modified Date
+8) Last Modified By
+**************************************************************
+Payment History Details
+===================
+1) ID
+2) Profile ID
+3) User ID
+4) Amount
+5) Mode Of Payment
+6) Payment Step
+7) Rate Of Interest
+8) Type
+9) Comments
+10) Created Date
+11) Created By
+12) Last Modified Date
+13) Last Modified By
